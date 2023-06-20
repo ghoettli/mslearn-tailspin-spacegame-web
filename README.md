@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ghoettli/devops-exercise/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ghoettli/devops-exercise/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
