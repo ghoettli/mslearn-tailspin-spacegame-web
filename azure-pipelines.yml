@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: devops-exercise
+  name: Default
 
 variables:
   solution: '**/*.sln'
